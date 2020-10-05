@@ -1,4 +1,4 @@
-### Design. Develop. Innovate
+### Design. Develop. Innovate.
 <ICT & Robotics teacher, trainer, software developer, Google Educator Certified, VEX Robotics Certified>
 
 <!--
