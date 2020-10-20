@@ -1,5 +1,5 @@
 ### Design. Develop. Innovate.
-<ICT & Robotics teacher, trainer, software developer, Google Educator Certified, VEX Robotics Certified>
+software developer, ICT & Robotics teacher & trainer, Google & VEX Certified Educator
 
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
