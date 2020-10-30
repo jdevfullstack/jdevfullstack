@@ -1,6 +1,9 @@
 ### Design. Develop. Innovate.
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
+![My GitHub Stat](https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
