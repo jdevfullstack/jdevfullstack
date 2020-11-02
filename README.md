@@ -1,6 +1,8 @@
 ### Design. Develop. Innovate.
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdvrx1" alt="xdvrx1" /> </p>
+
 ![My GitHub Stat](https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
