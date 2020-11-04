@@ -3,7 +3,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=FACEBOOK+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.google.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=FACEBOOK+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
