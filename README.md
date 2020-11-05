@@ -6,22 +6,22 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 </p>
 
 <p align="left">	  
-	<a href="https://xdvrx1.github.io/learn-to-code/" target="_blank" style="color:blue">Learn To Code </a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flearn-to-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=LEARN+TO+CODE+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flearn-to-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=LEARN+TO+CODE+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 <p align="left">
-	<a href="https://xdvrx1.github.io/my-tutorials/" target="_blank" style="color:blue">My Tutorials </a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fmy-tutorials&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=MY+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fmy-tutorials&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=MY+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>
 </p>
 <p align="left">        
-   <a href="https://xdvrx1.github.io/C-Language-Tutorial/" target="_blank" style="color:blue">C Language </a> <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FC-Language-Tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=C+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>  
+ <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FC-Language-Tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=C+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>  
 </p>
 <p align="left">	
-        <a href="https://xdvrx1.github.io/PureBasic/" target="_blank" style="color:blue">PureBasic </a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PUREBASIC+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PUREBASIC+PAGE+VIEWS&edge_flat=false"/></a>
 </p>
 <p align="left">  
-	<a href="https://xdvrx1.github.io/ROBOTC/" target="_blank" style="color:blue">ROBOTC </a> <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FROBOTC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ROBOTC+PAGE+VIEWS&edge_flat=false"/></a>        
+ <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FROBOTC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ROBOTC+PAGE+VIEWS&edge_flat=false"/></a>        
 </p>		
 <p align="left">  
-	<a href="https://xdvrx1.github.io/java/" target="_blank" style="color:blue">Java </a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=JAVA+PAGE+VIEWS&edge_flat=false"/></a> 
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=JAVA+PAGE+VIEWS&edge_flat=false"/></a> 
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
