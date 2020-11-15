@@ -6,7 +6,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 </p>
 
 <p align="left">	  
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flearn-to-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=LEARN+TO+CODE+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://xdvrx1.github.io/learn-to-code/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flearn-to-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=LEARN+TO+CODE+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 <p align="left">
  <a href="https://xdvrx1.github.io/my-tutorials/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fmy-tutorials&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=MY+TUTORIALS+PAGE+VIEWS&edge_flat=false"/></a>
