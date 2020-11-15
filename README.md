@@ -15,7 +15,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
  <a href="https://xdvrx1.github.io/C-Language-Tutorial/"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FC-Language-Tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=C+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>  
 </p>
 <p align="left">	
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PUREBASIC+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://xdvrx1.github.io/PureBasic/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PUREBASIC+PAGE+VIEWS&edge_flat=false"/></a>
 </p>
 <p align="left">  
  <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FROBOTC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ROBOTC+PAGE+VIEWS&edge_flat=false"/></a>        
