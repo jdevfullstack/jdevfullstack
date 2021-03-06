@@ -42,13 +42,20 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/programming-core-concepts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats)](https://github.com/xdvrx1/hacking-the-github-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial)](https://github.com/xdvrx1/page-metrics-tutorial)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code)](https://github.com/xdvrx1/learn-to-code)
+
+#### Arduino & Electronics
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=electronics-mini-library)](https://github.com/xdvrx1/electronics-mini-library)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=blinking-led-arduino)](https://github.com/xdvrx1/blinking-led-arduino)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=single-display-arduino-project)](https://github.com/xdvrx1/single-display-arduino-project)
 
 #### Software Dev
 ##### Java
