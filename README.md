@@ -44,6 +44,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats)](https://github.com/xdvrx1/hacking-the-github-stats)
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
