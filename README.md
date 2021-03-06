@@ -36,6 +36,43 @@ Visit my site: <https://xdvrx1.github.io>
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
 
+### My Repos
+#### My Tutorials
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts)](https://github.com/xdvrx1/programming-core-concepts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/programming-core-concepts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats)](https://github.com/xdvrx1/hacking-the-github-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial)](https://github.com/xdvrx1/page-metrics-tutorial)
+
+#### Software Dev
+##### Java
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server)](https://github.com/xdvrx1/lightweight-web-server)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=converter-app)](https://github.com/xdvrx1/converter-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird)](https://github.com/xkcph2017/FlappyBird)
+
+##### PureBasic
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic)](https://github.com/xdvrx1/PureBasic)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game)](https://github.com/xdvrx1/PureBasic-2D-Game)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-FileExplorer)](https://github.com/xdvrx1/PureBasic-FileExplorer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Randomizer)](https://github.com/xdvrx1/PureBasic-Randomizer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Hunter)](https://github.com/xdvrx1/PureBasic-Password-Hunter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Generator)](https://github.com/xdvrx1/PureBasic-Password-Generator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Scrabble)](https://github.com/xdvrx1/PureBasic-Scrabble)
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
