@@ -42,6 +42,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/programming-core-concepts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
