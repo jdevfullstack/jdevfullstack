@@ -55,6 +55,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=blinking-led-arduino)](https://github.com/xdvrx1/blinking-led-arduino)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=single-display-arduino-project)](https://github.com/xdvrx1/single-display-arduino-project)
+
 #### Software Dev
 ##### Java
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
