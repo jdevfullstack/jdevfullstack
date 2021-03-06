@@ -59,6 +59,7 @@ Visit my site: <https://xdvrx1.github.io>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird)](https://github.com/xkcph2017/FlappyBird)
 
 ##### PureBasic
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic)](https://github.com/xdvrx1/PureBasic)
 
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
