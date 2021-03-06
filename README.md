@@ -61,6 +61,8 @@ Visit my site: <https://xdvrx1.github.io>
 ##### PureBasic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic)](https://github.com/xdvrx1/PureBasic)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game)](https://github.com/xdvrx1/PureBasic-2D-Game)
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
