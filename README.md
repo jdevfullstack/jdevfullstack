@@ -54,6 +54,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server)](https://github.com/xdvrx1/lightweight-web-server)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=converter-app)](https://github.com/xdvrx1/converter-app)
+
 ##### PureBasic
 
 <!--
