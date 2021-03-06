@@ -48,6 +48,8 @@ visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code)](https://github.com/xdvrx1/learn-to-code)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java-interface-lesson)](https://github.com/xdvrx1/java-interface-lesson)
+
 ## Arduino & Electronics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
 
