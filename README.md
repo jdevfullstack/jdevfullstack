@@ -40,7 +40,7 @@ Visit my site: <https://xdvrx1.github.io>
 #### My Tutorials
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts)](https://github.com/xdvrx1/programming-core-concepts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/programming-core-concepts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/github-pages-tutorial)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats)](https://github.com/xdvrx1/hacking-the-github-stats)
 
