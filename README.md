@@ -48,6 +48,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial)](https://github.com/xdvrx1/page-metrics-tutorial)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code)](https://github.com/xdvrx1/learn-to-code)
+
 #### Software Dev
 ##### Java
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
