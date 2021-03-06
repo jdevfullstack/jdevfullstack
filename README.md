@@ -52,6 +52,8 @@ Visit my site: <https://xdvrx1.github.io>
 ##### Java
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server)](https://github.com/xdvrx1/lightweight-web-server)
+
 ##### PureBasic
 
 <!--
