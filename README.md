@@ -65,6 +65,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-FileExplorer)](https://github.com/xdvrx1/PureBasic-FileExplorer)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Randomizer)](https://github.com/xdvrx1/PureBasic-Randomizer)
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
