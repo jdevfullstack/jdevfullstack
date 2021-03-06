@@ -1,4 +1,4 @@
-### Design. Develop. Innovate.
+# Design. Develop. Innovate.
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
 <p align="left"> 
@@ -36,8 +36,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
 
-### My Repos
-#### My Tutorials
+# My Repos
+## My Tutorials
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts)](https://github.com/xdvrx1/programming-core-concepts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/github-pages-tutorial)
@@ -48,7 +48,7 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code)](https://github.com/xdvrx1/learn-to-code)
 
-#### Arduino & Electronics
+## Arduino & Electronics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=electronics-mini-library)](https://github.com/xdvrx1/electronics-mini-library)
@@ -57,8 +57,8 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=single-display-arduino-project)](https://github.com/xdvrx1/single-display-arduino-project)
 
-#### Software Dev
-##### Java
+## Software Dev
+### Java
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server)](https://github.com/xdvrx1/lightweight-web-server)
@@ -67,7 +67,7 @@ Visit my site: <https://xdvrx1.github.io>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird)](https://github.com/xkcph2017/FlappyBird)
 
-##### PureBasic
+### PureBasic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic)](https://github.com/xdvrx1/PureBasic)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game)](https://github.com/xdvrx1/PureBasic-2D-Game)
