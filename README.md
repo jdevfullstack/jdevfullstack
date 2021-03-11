@@ -38,51 +38,51 @@ visit my blogs: <https://xdvrx1.blogspot.com/>
 
 # My Repos
 ## My Tutorials
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts)](https://github.com/xdvrx1/programming-core-concepts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial)](https://github.com/xdvrx1/github-pages-tutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/xdvrx1/github-pages-tutorial)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats)](https://github.com/xdvrx1/hacking-the-github-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/xdvrx1/hacking-the-github-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial)](https://github.com/xdvrx1/page-metrics-tutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial&theme=tokyonight)](https://github.com/xdvrx1/page-metrics-tutorial)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code)](https://github.com/xdvrx1/learn-to-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code&theme=tokyonight)](https://github.com/xdvrx1/learn-to-code)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java-interface-lesson)](https://github.com/xdvrx1/java-interface-lesson)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java-interface-lesson&theme=tokyonight)](https://github.com/xdvrx1/java-interface-lesson)
 
 ## Arduino & Electronics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics)](https://github.com/xdvrx1/basic-electronics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics&theme=tokyonight)](https://github.com/xdvrx1/basic-electronics)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=electronics-mini-library)](https://github.com/xdvrx1/electronics-mini-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=electronics-mini-library&theme=tokyonight)](https://github.com/xdvrx1/electronics-mini-library)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=blinking-led-arduino)](https://github.com/xdvrx1/blinking-led-arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=blinking-led-arduino&theme=tokyonight)](https://github.com/xdvrx1/blinking-led-arduino)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=single-display-arduino-project)](https://github.com/xdvrx1/single-display-arduino-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=single-display-arduino-project&theme=tokyonight)](https://github.com/xdvrx1/single-display-arduino-project)
 
 ## Software Dev
 ### Java
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java)](https://github.com/xdvrx1/java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java&theme=tokyonight)](https://github.com/xdvrx1/java)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server)](https://github.com/xdvrx1/lightweight-web-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=lightweight-web-server&theme=tokyonight)](https://github.com/xdvrx1/lightweight-web-server)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=converter-app)](https://github.com/xdvrx1/converter-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=converter-app&theme=tokyonight)](https://github.com/xdvrx1/converter-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird)](https://github.com/xkcph2017/FlappyBird)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
 
 ### PureBasic
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic)](https://github.com/xdvrx1/PureBasic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic&theme=tokyonight)](https://github.com/xdvrx1/PureBasic)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game)](https://github.com/xdvrx1/PureBasic-2D-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-2D-Game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-FileExplorer)](https://github.com/xdvrx1/PureBasic-FileExplorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-FileExplorer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Randomizer)](https://github.com/xdvrx1/PureBasic-Randomizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Randomizer&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Randomizer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Hunter)](https://github.com/xdvrx1/PureBasic-Password-Hunter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Hunter&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Password-Hunter)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Generator)](https://github.com/xdvrx1/PureBasic-Password-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Generator&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Password-Generator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Scrabble)](https://github.com/xdvrx1/PureBasic-Scrabble)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Scrabble)
 
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
