@@ -30,7 +30,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
  <a href="https://xdvrx1.github.io/breakout-game/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fbreakout-game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BREAKOUT+GAME+HITS&edge_flat=false"/></a>
 </p>	
 
-visit my blogs: <https://xdvrx1.github.io/>
+visit my site: <https://xdvrx1.github.io/>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
