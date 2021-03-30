@@ -52,6 +52,8 @@ visit my site: <https://xdvrx1.github.io/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=what-is-github&theme=tokyonight)](https://github.com/xdvrx1/what-is-github)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=my-personal-content-dev-workflow&theme=tokyonight)](https://github.com/xdvrx1/my-personal-content-dev-workflow)
+
 ## Arduino & Electronics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics&theme=tokyonight)](https://github.com/xdvrx1/basic-electronics)
 
