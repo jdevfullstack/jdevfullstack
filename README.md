@@ -72,6 +72,11 @@ visit my site: <https://xdvrx1.github.io/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=imac-review&theme=tokyonight)](https://github.com/xdvrx1/imac-review)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=display-resolution-review&theme=tokyonight)](https://github.com/xdvrx1/display-resolution-review)
+
+### Repos Link
+visit all my public repos:
+<https://github.com/xdvrx1?tab=repositories&q=xdv&type=source&language=>
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
