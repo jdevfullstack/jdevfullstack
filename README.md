@@ -2,35 +2,12 @@
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
+  <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
 
 <p align="left">	  
- <a href="https://xdvrx1.github.io/learn-to-code/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flearn-to-code&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=LEARN+TO+CODE+PAGE+VIEWS&edge_flat=false"/></a>
+ <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
-<p align="left">
- <a href="https://xdvrx1.github.io/my-tutorials/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fmy-tutorials&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=MY+TUTORIALS+PAGE+VIEWS&edge_flat=false"/></a>
-</p>
-<p align="left">        
- <a href="https://xdvrx1.github.io/C-Language-Tutorial/"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FC-Language-Tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=C+TUTORIAL+PAGE+VIEWS&edge_flat=false"/></a>  
-</p>
-<p align="left">	
- <a href="https://xdvrx1.github.io/PureBasic/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PUREBASIC+PAGE+VIEWS&edge_flat=false"/></a>
-</p>
-<p align="left">  
- <a href="https://xdvrx1.github.io/PureBasic/"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FROBOTC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ROBOTC+PAGE+VIEWS&edge_flat=false"/></a>        
-</p>		
-<p align="left">  
- <a href="https://xdvrx1.github.io/java/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=JAVA+PAGE+VIEWS&edge_flat=false"/></a> 
-</p>
-<p align="left">  
- <a href="https://xdvrx1.github.io/hangman-game/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fhangman-game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HANGMAN+GAME+HITS&edge_flat=false"/></a>
-</p>
-<p align="left">  
- <a href="https://xdvrx1.github.io/breakout-game/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fbreakout-game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BREAKOUT+GAME+HITS&edge_flat=false"/></a>
-</p>	
-
-visit my site: <https://xdvrx1.github.io/>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdvrx1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
