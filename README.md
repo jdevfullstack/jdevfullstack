@@ -59,8 +59,6 @@ visit my site: <https://xdvrx1.github.io/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=converter-app&theme=tokyonight)](https://github.com/xdvrx1/converter-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
-
 ### PureBasic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-2D-Game)
 
