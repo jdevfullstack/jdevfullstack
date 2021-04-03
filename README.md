@@ -36,30 +36,16 @@ visit my site: <https://xdvrx1.github.io/>
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
 
-# My Repos
-## My Tutorials
+# Featured Content
+## Tutorials
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/xdvrx1/github-pages-tutorial)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/xdvrx1/hacking-the-github-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=page-metrics-tutorial&theme=tokyonight)](https://github.com/xdvrx1/page-metrics-tutorial)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=learn-to-code&theme=tokyonight)](https://github.com/xdvrx1/learn-to-code)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=java-interface-lesson&theme=tokyonight)](https://github.com/xdvrx1/java-interface-lesson)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=what-is-github&theme=tokyonight)](https://github.com/xdvrx1/what-is-github)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=my-personal-content-dev-workflow&theme=tokyonight)](https://github.com/xdvrx1/my-personal-content-dev-workflow)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=what-is-code-testing&theme=tokyonight)](https://github.com/xdvrx1/what-is-code-testing)
-
 ## Arduino & Electronics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=basic-electronics&theme=tokyonight)](https://github.com/xdvrx1/basic-electronics)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=electronics-mini-library&theme=tokyonight)](https://github.com/xdvrx1/electronics-mini-library)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=blinking-led-arduino&theme=tokyonight)](https://github.com/xdvrx1/blinking-led-arduino)
 
@@ -76,17 +62,9 @@ visit my site: <https://xdvrx1.github.io/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
 
 ### PureBasic
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic&theme=tokyonight)](https://github.com/xdvrx1/PureBasic)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-2D-Game)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-FileExplorer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Randomizer&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Randomizer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Hunter&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Password-Hunter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Password-Generator&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Password-Generator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/xdvrx1/PureBasic-Scrabble)
 
@@ -94,6 +72,11 @@ visit my site: <https://xdvrx1.github.io/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=imac-review&theme=tokyonight)](https://github.com/xdvrx1/imac-review)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=display-resolution-review&theme=tokyonight)](https://github.com/xdvrx1/display-resolution-review)
+
+### Repos Link
+visit all my public repos:
+<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>
+
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
