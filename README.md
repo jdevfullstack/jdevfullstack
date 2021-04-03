@@ -75,7 +75,7 @@ visit my site: <https://xdvrx1.github.io/>
 
 ### Repos Link
 visit all my public repos:
-<https://github.com/xdvrx1?tab=repositories&q=xdv&type=source&language=>
+<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>
 
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
