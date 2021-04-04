@@ -1,6 +1,11 @@
 # Design. Develop. Innovate.
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
+*visit all my public repos:*
+
+**<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
+
+***
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
@@ -47,12 +52,6 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=imac-review&theme=tokyonight)](https://github.com/xdvrx1/imac-review)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=display-resolution-review&theme=tokyonight)](https://github.com/xdvrx1/display-resolution-review)
-
-## My Public Repos Link
-visit all my public repos:
-
-**<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
-
 
 <!--
 **xdvrx1/xdvrx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
