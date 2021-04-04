@@ -13,8 +13,8 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdvrx1&hide=scss&layout=compact&theme=tokyonight)
 
-# Featured Content
-## Tutorials
+# Featured Contents
+## Dev & Tech Tutorials / Lessons
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=programming-core-concepts&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/xdvrx1/github-pages-tutorial)
