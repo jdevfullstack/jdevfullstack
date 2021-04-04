@@ -5,8 +5,6 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 
 **<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
 
----
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
