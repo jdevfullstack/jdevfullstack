@@ -48,7 +48,7 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=display-resolution-review&theme=tokyonight)](https://github.com/xdvrx1/display-resolution-review)
 
-## Repos Link
+## My Public Repos Link
 visit all my public repos:
 
 **<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
