@@ -1,14 +1,14 @@
 # Design. Develop. Innovate.
 software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator
 
+I just want to share my knowledge and skills so 
+please leave a star or fork any repo that you think 
+is helpful / informative / worth it.
+It means a lot to me, thanks.
+
 *visit all my public repos:*
 
 **<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
-
-I just want to share my knowledge and skills so 
-please leave a star or fork any repo that you think 
-is helpful / informative / worth it,
-it means a lot to me, thanks.
 
 ***
 <p align="left"> 
