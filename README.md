@@ -5,6 +5,11 @@ software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Cert
 
 **<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
 
+I just want to share my knowledge and skills so 
+please leave a star or fork any repo that you think 
+is helpful / informative / worth it,
+it means a lot to me, thanks.
+
 ***
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
