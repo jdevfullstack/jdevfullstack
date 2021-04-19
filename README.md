@@ -1,5 +1,5 @@
 # Design. Develop. Innovate.
---- software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator, GitHub Community Member ---
+***software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator, GitHub Community Member (Level 2)*** 
 
 I just want to share my knowledge and skills so 
 please leave a star or fork any repo that you think 
