@@ -6,7 +6,7 @@ lessons that I'm learning and topics that I'm teaching.
 And I want to share these things with you.
 So, please leave a star or fork any repo 
 that you think is helpful / informative / 
-worth it. It means a lot to me, thanks.
+worth it. It means a lot to me. Thanks.
 
 *visit all my public repos:*
 
