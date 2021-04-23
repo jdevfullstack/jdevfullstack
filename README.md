@@ -1,9 +1,8 @@
 # Design. Develop. Innovate.
 ***software developer, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator, GitHub Community Member (Level 2)*** 
 
-I'm documenting the things I'm interested,
-lessons that I'm learning
-and topics that I'm teaching.
+I'm documenting the things I'm interested in,
+lessons that I'm learning and topics that I'm teaching.
 And I want to share these things with you.
 So, please leave a star or fork any repo 
 that you think is helpful / informative / 
