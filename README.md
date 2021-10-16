@@ -8,6 +8,8 @@ So, please hit the star button or fork any repo
 that you think is helpful / informative / 
 worth it. It means a lot to me. Thanks.
 
+(I'm using GitHub for my code and my lessons, articles, etc.,) 
+
 *visit all my public repos:*
 
 **<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
