@@ -29,6 +29,9 @@ worth it. It means a lot to me. Thanks.
 
 # Featured Contents
 ## Latest Post/s
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=ping-bandwidth-internet-speed&theme=tokyonight)](https://github.com/xdvrx1/ping-bandwidth-internet-speed)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=resolution-and-screen-size&theme=tokyonight)](https://github.com/xdvrx1/resolution-and-screen-size)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdvrx1&repo=gaming-and-productivity-specs&theme=tokyonight)](https://github.com/xdvrx1/gaming-and-productivity-specs)
