@@ -1,5 +1,5 @@
 # Design. Develop. Innovate.
-***GitHub Contributor (software dev & technical writing), ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator, GitHub Community Member Level 2*** 
+***GitHub Contributor, GitHub Support Community Member, ICT & Robotics teacher & trainer, Google & VEX Robotics Certified Educator*** 
 
 I'm documenting the things I'm interested in,
 lessons that I'm learning and topics that I'm teaching.
