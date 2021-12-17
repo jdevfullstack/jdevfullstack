@@ -12,7 +12,7 @@ worth it. It means a lot to me. Thanks.
 
 *visit all my public repos:*
 
-**<https://github.com/xdvrx1?tab=repositories&q=&type=source&language=>**
+**<https://github.com/xdvrx1?tab=repositories>**
 
 ***
 <p align="left"> 
