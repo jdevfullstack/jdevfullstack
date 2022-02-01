@@ -2,7 +2,8 @@
 ***GitHub Contributor, GitHub Support Community Member, ICT & Robotics Teacher & Trainer, Google & VEX Robotics Certified Educator*** 
 
 I'm documenting the things I'm interested in,
-lessons that I'm learning and topics that I'm teaching.
+lessons that I'm learning and topics that I'm teaching
+plus my dev projects.
 And I want to share these things with you.
 So, please hit the star button or fork any repo 
 that you think is helpful / informative / 
