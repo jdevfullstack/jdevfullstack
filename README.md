@@ -9,7 +9,7 @@ So, please hit the star button or fork any repo
 that you think is helpful / informative / 
 worth it. It means a lot to me. Thanks.
 
-**visit all my public repos [here](https://github.com/xdvrx1?tab=repositories&q=&type=source&language=)**
+**visit all my public repos [here](https://github.com/xdvrx1?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
 <p align="left"> 
