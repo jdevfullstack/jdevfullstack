@@ -17,7 +17,7 @@ worth it. It means a lot to me. Thanks.
 > 
 > 1. Web Dev ( Java, Spring Boot, PHP, Laravel ) 
 > 2. online tutorial ( programming, Arduino & Robotics )
-> 3. writing lessons, topics or Course Syllabus
+> 3. writing tech lessons, topics or Course Syllabus
 > 4. Technical Writing
 > 
 > just DM me for the details at Twitter <https://twitter.com/jdevstatic>
