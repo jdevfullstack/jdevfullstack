@@ -12,6 +12,17 @@ worth it. It means a lot to me. Thanks.
 **visit all my public repos [here](https://github.com/xdvrx1?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
+
+> I'm now a freelancer so you can hire me.
+> 
+> 1. Web Development ( Java, Spring Boot, PHP, Laravel) 
+> 2. online tutorial ( programming, Arduino & Robotics )
+> 3. writing lessons, topics or Course Syllabus
+> 4. Technical Writing
+> 
+> just DM me for the details at Twitter <https://twitter.com/jdevstatic>
+
+***
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
