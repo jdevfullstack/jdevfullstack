@@ -13,14 +13,14 @@ worth it. It means a lot to me. Thanks.
 
 ***
 
-> I'm now a freelancer so you can hire me.
+> **I'm now a freelancer. You can hire me.**
 > 
-> 1. Web Dev ( Java, Spring Boot, PHP, Laravel ) 
-> 2. online tutorial ( programming, Arduino & Robotics )
-> 3. writing tech lessons, topics or Course Syllabus
-> 4. Technical Writing
+> **1. Web Dev ( Java, Spring Boot, PHP, Laravel )**       
+> **2. online tutorial ( programming, Arduino & Robotics )**      
+> **3. writing tech lessons, topics or Course Syllabus**      
+> **4. Technical Writing**      
 > 
-> just DM me for the details at Twitter <https://twitter.com/jdevstatic>
+> **just DM me for the details at Twitter <https://twitter.com/jdevstatic>**
 
 ***
 <p align="left"> 
