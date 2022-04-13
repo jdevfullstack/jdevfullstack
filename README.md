@@ -15,7 +15,7 @@ worth it. It means a lot to me. Thanks.
 
 > I'm now a freelancer so you can hire me.
 > 
-> 1. Web Development ( Java, Spring Boot, PHP, Laravel ) 
+> 1. Web Dev ( Java, Spring Boot, PHP, Laravel ) 
 > 2. online tutorial ( programming, Arduino & Robotics )
 > 3. writing lessons, topics or Course Syllabus
 > 4. Technical Writing
