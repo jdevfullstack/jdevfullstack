@@ -13,7 +13,7 @@ worth it. It means a lot to me. Thanks.
 
 ***
 
-> **I'm now a freelancer. You can hire me.**
+> **I'm now a freelancer / side-hustler. You can hire me.**
 > 
 > **1. Web Dev ( Java, Spring Boot, PHP, Laravel )**       
 > **2. online tutorial ( programming, Arduino & Robotics )**      
