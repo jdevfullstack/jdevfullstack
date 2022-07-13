@@ -15,7 +15,7 @@ worth it. It means a lot to me. Thanks.
 
 > **I'm now a freelancer / side-hustler. You can hire me.**
 > 
-> **1. Web Dev ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS ) , MySQL, API Programming )**       
+> **1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS, ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**       
 > **2. online tutorial ( programming, Arduino & Robotics )**      
 > **3. writing tech lessons, topics or Course Syllabus**      
 > **4. Technical Writing**      
