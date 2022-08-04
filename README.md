@@ -44,12 +44,6 @@ worth it. It means a lot to me. Thanks.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=w3css-intro&theme=tokyonight)](https://github.com/jdevstatic/w3css-intro)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=ping-bandwidth-internet-speed&theme=tokyonight)](https://github.com/jdevstatic/ping-bandwidth-internet-speed)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=resolution-and-screen-size&theme=tokyonight)](https://github.com/jdevstatic/resolution-and-screen-size)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=gaming-and-productivity-specs&theme=tokyonight)](https://github.com/jdevstatic/gaming-and-productivity-specs)
-
 ## Dev & Tech Tutorials / Lessons
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts)
 
@@ -78,8 +72,3 @@ worth it. It means a lot to me. Thanks.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-FileExplorer)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-Scrabble)
-
-## Device Review
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=imac-review&theme=tokyonight)](https://github.com/jdevstatic/imac-review)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=display-resolution-review&theme=tokyonight)](https://github.com/jdevstatic/display-resolution-review)
