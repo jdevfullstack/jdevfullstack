@@ -20,7 +20,7 @@ worth it. It means a lot to me. Thanks.
 > **3. writing tech lessons, topics or Course Syllabus**      
 > **4. Technical Writing**      
 > 
-> **just DM me for the details at Twitter <https://twitter.com/jdevstatic>**
+> **<https://twitter.com/jdevstatic>**
 
 ***
 <p align="left"> 
