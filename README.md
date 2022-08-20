@@ -13,7 +13,7 @@ worth it. It means a lot to me. Thanks.
 
 ***
 
-> ***Instructor by Night, Coder by Day, GitHub-ber by Weekends and Free Time***
+> ***Instructor by Night, Coder by Day, GitHub-ber by Weekends & Free Time***
 > 
 > **1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS, ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**       
 > **2. online tutorial ( computer programming, Arduino & Robotics )**      
