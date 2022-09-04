@@ -1,4 +1,6 @@
 # Design. Develop. Innovate.
+***Instructor by Night, Developer by Day, GitHub-ber by Weekends & Free Time***
+
 ***GitHub Contributor, GitHub Support Community Member L3, ICT & Robotics Instructor, Google & VEX Robotics Certified Educator*** 
 
 I'm documenting the things I'm interested in,
@@ -12,8 +14,8 @@ worth it. It means a lot to me. Thanks.
 **visit all my public repos [here](https://github.com/xdvrx1?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
+-- **my skillset** --
 
-> ***Instructor by Night, Coder by Day, GitHub-ber by Weekends & Free Time***
 > 
 > **1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS, ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**       
 > **2. online tutorial ( computer programming, Arduino & Robotics )**      
