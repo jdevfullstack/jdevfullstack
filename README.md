@@ -14,6 +14,7 @@ worth it. It means a lot to me. Thanks.
 **visit all my public repos [here](https://github.com/xdvrx1?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
+
 -- **my skillset** --
 
 **1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS, ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**       
