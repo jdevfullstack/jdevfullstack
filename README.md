@@ -17,10 +17,11 @@ worth it. It means a lot to me. Thanks.
 
 -- **my skillset** --
 
-**1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS, ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**       
-**2. online tutorial ( computer programming, Arduino & Robotics )**      
-**3. writing tech lessons, topics or Course Syllabus**      
-**4. Technical Writing**      
+**1. Technical Skills ( C, Python, Java, Spring Boot, PHP, Laravel, Web Dev ( HTML, Markdown , JavaScript, CSS ) , MySQL, API Programming, Git and GitHub, Arduino, VEX Robotics )**          
+**2. online tutorial ( all of my Technical Skills )**         
+**3. writing tech lessons, topics or Course Syllabus**          
+**4. Technical Writing**    
+**5. GitHub Tech Support @ GitHub Community**   
 
 ***
 
