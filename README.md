@@ -1,7 +1,7 @@
 # Design. Develop. Innovate.
-***Instructor by Night, Developer by Day, GitHub-ber by Weekends & Free Time***
+***Instructor by Night, Developer by Day, GitHub-ber by Weekends & Free Time*** --*that's how it goes*-- 
 
-***GitHub Contributor, GitHub Support Community Member L3, ICT & Robotics Instructor, Google & VEX Robotics Certified Educator*** 
+**GitHub Contributor, GitHub Support Community Member L3, ICT & Robotics Instructor, Google & VEX Robotics Certified Educator** 
 
 I'm documenting the things I'm interested in,
 lessons that I'm learning and topics that I'm teaching
