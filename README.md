@@ -76,3 +76,20 @@ worth it. It means a lot to me. Thanks.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-FileExplorer)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-Scrabble)
+
+# Copyright Notice
+
+all of my projects not under MIT license is my
+copyright
+
+even the the copyright notice below is my copyright
+
+## Copyright Notice
+
+All Rights Reserved by [@jdevstatic](https://github.com/jdevstatic)
+
+powered by GitHub Gist, *the Gist that you can Git*
+
+also powered by GitHub, *the Hub that you can Git*
+
+and also powered by Git, *the Git that you can't Git without Git*
