@@ -40,6 +40,8 @@ worth it. It means a lot to me. Thanks.
 # Featured Contents
 ## Latest Post/s
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=copyright-notice&theme=tokyonight)](https://github.com/jdevstatic/copyright-notice)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=discussions&theme=tokyonight)](https://github.com/jdevstatic/discussions)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java-coding-problems&theme=tokyonight)](https://github.com/jdevstatic/java-coding-problems)
