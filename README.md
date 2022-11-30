@@ -93,3 +93,7 @@ powered by GitHub Gist, *the Gist that you can Git*
 also powered by GitHub, *the Hub that you can Git*
 
 and also powered by Git, *the Git that you can't Git without Git*
+
+## Copyright Notice Link
+
+https://github.com/jdevstatic/copyright-notice
