@@ -33,53 +33,53 @@ worth it. It means a lot to me. Thanks.
  <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevstatic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jdevstatic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevstatic&hide=scss&layout=compact&theme=tokyonight)
+![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jdevstatic&hide=scss&layout=compact&theme=tokyonight)
 
 # Featured Contents
 ## Latest Post/s
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=my-github-desktop-commit-workflow&theme=tokyonight)](https://github.com/jdevstatic/my-github-desktop-commit-workflow)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=my-github-desktop-commit-workflow&theme=tokyonight)](https://github.com/jdevstatic/my-github-desktop-commit-workflow)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=copyright-notice&theme=tokyonight)](https://github.com/jdevstatic/copyright-notice)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=copyright-notice&theme=tokyonight)](https://github.com/jdevstatic/copyright-notice)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=discussions&theme=tokyonight)](https://github.com/jdevstatic/discussions)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=discussions&theme=tokyonight)](https://github.com/jdevstatic/discussions)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java-coding-problems&theme=tokyonight)](https://github.com/jdevstatic/java-coding-problems)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=java-coding-problems&theme=tokyonight)](https://github.com/jdevstatic/java-coding-problems)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devz-throwable&repo=devz-throwable.github.io&theme=tokyonight)](https://github.com/devz-throwable/devz-throwable.github.io)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devz-throwable&repo=devz-throwable.github.io&theme=tokyonight)](https://github.com/devz-throwable/devz-throwable.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=w3css-intro&theme=tokyonight)](https://github.com/jdevstatic/w3css-intro)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=w3css-intro&theme=tokyonight)](https://github.com/jdevstatic/w3css-intro)
 
 ## Dev & Tech Tutorials / Lessons
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/jdevstatic/github-pages-tutorial)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/jdevstatic/github-pages-tutorial)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/jdevstatic/hacking-the-github-stats)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/jdevstatic/hacking-the-github-stats)
 
 ## Arduino & Electronics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=basic-electronics&theme=tokyonight)](https://github.com/jdevstatic/basic-electronics)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=basic-electronics&theme=tokyonight)](https://github.com/jdevstatic/basic-electronics)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=blinking-led-arduino&theme=tokyonight)](https://github.com/jdevstatic/blinking-led-arduino)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=blinking-led-arduino&theme=tokyonight)](https://github.com/jdevstatic/blinking-led-arduino)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=single-display-arduino-project&theme=tokyonight)](https://github.com/jdevstatic/single-display-arduino-project)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=single-display-arduino-project&theme=tokyonight)](https://github.com/jdevstatic/single-display-arduino-project)
 
 ## Software Dev
 ### Java
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java&theme=tokyonight)](https://github.com/jdevstatic/java)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=java&theme=tokyonight)](https://github.com/jdevstatic/java)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=lightweight-web-server&theme=tokyonight)](https://github.com/jdevstatic/lightweight-web-server)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=lightweight-web-server&theme=tokyonight)](https://github.com/jdevstatic/lightweight-web-server)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
 
 ### PureBasic
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-2D-Game)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-2D-Game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-FileExplorer)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-FileExplorer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-Scrabble)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-Scrabble)
 
 # Copyright Notice
 
