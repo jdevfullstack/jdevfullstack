@@ -40,7 +40,7 @@ worth it. It means a lot to me. Thanks.
 # Featured Contents
 ## Latest Post/s
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=everything-laravel&theme=tokyonight)](https://github.com/jdevstatic/everything-laravel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=laravel-hacks&theme=tokyonight)](https://github.com/jdevstatic/laravel-hacks)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=my-github-desktop-commit-workflow&theme=tokyonight)](https://github.com/jdevstatic/my-github-desktop-commit-workflow)
 
