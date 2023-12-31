@@ -35,8 +35,6 @@ worth it. It means a lot to me. Thanks.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevstatic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevstatic&hide=scss&layout=compact&theme=tokyonight)
-
 # Featured Contents
 ## Latest Post/s
 
