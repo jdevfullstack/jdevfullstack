@@ -37,6 +37,11 @@ worth it. It means a lot to me. Thanks.
 
 # Featured Contents
 
+## More Of My Contents
+
+- [jdevstatic Tutorials](https://github.com/jdevstatic-tutorials)
+- [jdevstatic Projects](https://github.com/jdevstatic-projects)
+  
 ## Dev & Tech Tutorials / Lessons
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts)
 
