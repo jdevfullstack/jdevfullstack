@@ -36,21 +36,6 @@ worth it. It means a lot to me. Thanks.
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevstatic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 # Featured Contents
-## Latest Post/s
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=laravel-hacks&theme=tokyonight)](https://github.com/jdevstatic/laravel-hacks)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=my-github-desktop-commit-workflow&theme=tokyonight)](https://github.com/jdevstatic/my-github-desktop-commit-workflow)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=copyright-notice&theme=tokyonight)](https://github.com/jdevstatic/copyright-notice)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=discussions&theme=tokyonight)](https://github.com/jdevstatic/discussions)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java-coding-problems&theme=tokyonight)](https://github.com/jdevstatic/java-coding-problems)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devz-throwable&repo=devz-throwable.github.io&theme=tokyonight)](https://github.com/devz-throwable/devz-throwable.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=w3css-intro&theme=tokyonight)](https://github.com/jdevstatic/w3css-intro)
 
 ## Dev & Tech Tutorials / Lessons
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts)
