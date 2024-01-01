@@ -44,7 +44,9 @@ worth it. It means a lot to me. Thanks.
   
 ## Dev & Tech Tutorials / Lessons
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/jdevstatic/github-pages-tutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/jdevstatic/github-pages-tutorial)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/jdevstatic/hacking-the-github-stats)
 
