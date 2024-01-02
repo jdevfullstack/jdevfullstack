@@ -44,33 +44,56 @@ worth it. It means a lot to me. Thanks.
   
 ## Dev & Tech Tutorials / Lessons
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight)](https://github.com/jdevstatic/programming-core-concepts) 
+<a href="https://github.com/jdevstatic/programming-core-concepts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight&description_lines_count=4" />
+</a>
+<a href="https://github.com/jdevstatic/github-pages-tutorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight&description_lines_count=4" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight)](https://github.com/jdevstatic/github-pages-tutorial)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight)](https://github.com/jdevstatic/hacking-the-github-stats)
+<a href="https://github.com/jdevstatic/hacking-the-github-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight&description_lines_count=4" />
+</a>
 
 ## Arduino & Electronics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=basic-electronics&theme=tokyonight)](https://github.com/jdevstatic/basic-electronics)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=blinking-led-arduino&theme=tokyonight)](https://github.com/jdevstatic/blinking-led-arduino)
+<a href="https://github.com/jdevstatic/basic-electronics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=basic-electronics&theme=tokyonight&description_lines_count=4" />
+</a>
+<a href="https://github.com/jdevstatic/blinking-led-arduino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=4" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=single-display-arduino-project&theme=tokyonight)](https://github.com/jdevstatic/single-display-arduino-project)
+<a href="https://github.com/jdevstatic/single-display-arduino-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=4" />
+</a>
 
 ## Software Dev
 ### Java
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java&theme=tokyonight)](https://github.com/jdevstatic/java)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=lightweight-web-server&theme=tokyonight)](https://github.com/jdevstatic/lightweight-web-server)
+<a href="https://github.com/jdevstatic/java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java&theme=tokyonight&description_lines_count=4" />
+</a>
+<a href="https://github.com/jdevstatic/lightweight-web-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=lightweight-web-server&theme=tokyonight&description_lines_count=4" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight)](https://github.com/xkcph2017/FlappyBird)
+<a href="https://github.com/xkcph2017/FlappyBird">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xkcph2017&repo=FlappyBird&theme=tokyonight&description_lines_count=4" />
+</a>
 
 ### PureBasic
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-2D-Game&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-2D-Game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-FileExplorer)
+<a href="https://github.com/jdevstatic/PureBasic-2D-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=4" />
+</a>
+<a href="https://github.com/jdevstatic/PureBasic-FileExplorer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=4" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight)](https://github.com/jdevstatic/PureBasic-Scrabble)
+<a href="https://github.com/jdevstatic/PureBasic-Scrabble">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=4" />
+</a>
 
 # Copyright Notice
 
