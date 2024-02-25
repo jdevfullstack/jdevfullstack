@@ -41,7 +41,14 @@ worth it. It means a lot to me. Thanks.
 
 - [jdevstatic Tutorials](https://github.com/jdevstatic-tutorials)
 - [jdevstatic Projects](https://github.com/jdevstatic-projects)
-  
+
+
+## New
+
+<a href="https://github.com/jdevstatic/github-unfollow-script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-unfollow-script&theme=tokyonight&description_lines_count=2" />
+</a>
+
 ## Dev & Tech Tutorials / Lessons
 
 <a href="https://github.com/jdevstatic/programming-core-concepts">
