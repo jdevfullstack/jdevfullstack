@@ -45,8 +45,8 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
-<a href="https://github.com/jdevstatic/github-unfollow-script">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-unfollow-script&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/git-merge-resolve">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=git-merge-resolve&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Dev & Tech Tutorials / Lessons
