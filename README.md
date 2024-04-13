@@ -67,12 +67,12 @@ worth it. It means a lot to me. Thanks.
 <a href="https://github.com/jdevfullstack/basic-electronics">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=basic-electronics&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevfullstack/blinking-led-arduino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack-tutorials/blinking-led-arduino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack-tutorials&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jdevfullstack/single-display-arduino-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=3" />
+<a href="https://github.com/jdevfullstack-tutorials/single-display-arduino-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack-tutorials&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=3" />
 </a>
 
 ## Software Dev
