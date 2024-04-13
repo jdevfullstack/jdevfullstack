@@ -11,7 +11,7 @@ So, please hit the star button or fork any repo
 that you think is helpful / informative / 
 worth it. It means a lot to me. Thanks.
 
-**visit all my public repos [here](https://github.com/jdevstatic?tab=repositories&q=&type=source&language=&sort=name)**
+**visit all my public repos [here](https://github.com/jdevfullstack?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
 
@@ -33,14 +33,14 @@ worth it. It means a lot to me. Thanks.
  <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevstatic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevfullstack&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 # Featured Contents
 
 ## More Of My Contents
 
-- [jdevstatic Tutorials](https://github.com/jdevstatic-tutorials)
-- [jdevstatic Projects](https://github.com/jdevstatic-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
 
 
 ## New
@@ -51,38 +51,38 @@ worth it. It means a lot to me. Thanks.
 
 ## Dev & Tech Tutorials / Lessons
 
-<a href="https://github.com/jdevstatic/programming-core-concepts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=programming-core-concepts&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/programming-core-concepts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=programming-core-concepts&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevstatic/github-pages-tutorial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=github-pages-tutorial&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/github-pages-tutorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=github-pages-tutorial&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jdevstatic/hacking-the-github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=hacking-the-github-stats&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/hacking-the-github-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=hacking-the-github-stats&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Arduino & Electronics
 
-<a href="https://github.com/jdevstatic/basic-electronics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=basic-electronics&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/basic-electronics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=basic-electronics&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevstatic/blinking-led-arduino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/blinking-led-arduino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jdevstatic/single-display-arduino-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=3" />
+<a href="https://github.com/jdevfullstack/single-display-arduino-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=single-display-arduino-project&theme=tokyonight&description_lines_count=3" />
 </a>
 
 ## Software Dev
 ### Java
 
-<a href="https://github.com/jdevstatic/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=java&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=java&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevstatic/lightweight-web-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=lightweight-web-server&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/lightweight-web-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=lightweight-web-server&theme=tokyonight&description_lines_count=2" />
 </a>
 
 <a href="https://github.com/xkcph2017/FlappyBird">
@@ -91,15 +91,15 @@ worth it. It means a lot to me. Thanks.
 
 ### PureBasic
 
-<a href="https://github.com/jdevstatic/PureBasic-2D-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/PureBasic-2D-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevstatic/PureBasic-FileExplorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/PureBasic-FileExplorer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jdevstatic/PureBasic-Scrabble">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevstatic&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/PureBasic-Scrabble">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
 </a>
 
 # Copyright Notice
@@ -111,7 +111,7 @@ even the the copyright notice below is my copyright
 
 ## Copyright Notice
 
-[ [@jdevstatic](https://github.com/jdevstatic) ] All Rights Reserved 
+[ [@jdevfullstack](https://github.com/jdevfullstack) ] All Rights Reserved 
 
 powered by GitHub Gist, *the Gist that you can Git*
 
@@ -121,4 +121,4 @@ and also powered by Git, *the Git that you can't Git without Git*
 
 ## Copyright Notice Link
 
-https://github.com/jdevstatic/copyright-notice
+https://github.com/jdevfullstack/copyright-notice
