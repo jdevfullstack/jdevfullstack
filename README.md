@@ -45,8 +45,8 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
-<a href="https://github.com/jdevfullstack/git-merge-resolve">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=git-merge-resolve&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jdevfullstack/thoughts-on-gpt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=thoughts-on-gpt&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Dev & Tech Tutorials / Lessons
