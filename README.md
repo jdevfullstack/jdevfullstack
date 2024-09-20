@@ -35,9 +35,9 @@ worth it. It means a lot to me. Thanks.
 
 <p align="left"> <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=jdevfullstack&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
 
-# Featured Contents
+# Featured Content
 
-## More Of My Contents
+## More Of My Content
 
 - [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
 - [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
