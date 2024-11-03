@@ -1,5 +1,5 @@
 # Design. Develop. Innovate.
-***Instructor by Night, Developer by Day, GitHub-ber by Weekends & Free Time*** --*that's how it goes*-- 
+***Instructor by Night, Developer by Day, GitHub-er by Weekends & Free Time*** --*that's how it goes*-- 
 
 **Full Stack Software Developer, GitHub Contributor, GitHub Support Community Member L3, Google & VEX Robotics Certified Educator, ICT & Robotics Instructor** 
 
