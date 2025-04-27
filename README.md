@@ -11,7 +11,7 @@ So, please hit the star button or fork any repo
 that you think is helpful / informative / 
 worth it. It means a lot to me. Thanks.
 
-**visit all my public repos [here](https://github.com/jdevfullstack?tab=repositories&q=&type=source&language=&sort=name)**
+**visit all my public repos [here](https://github.com/jfullstackdev?tab=repositories&q=&type=source&language=&sort=name)**
 
 ***
 
@@ -33,7 +33,7 @@ worth it. It means a lot to me. Thanks.
  <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jdevfullstack&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jfullstackdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
 
 # Featured Content
 
@@ -111,7 +111,7 @@ even the the copyright notice below is my copyright
 
 ## Copyright Notice
 
-[ [@jdevfullstack](https://github.com/jdevfullstack) ] All Rights Reserved 
+[ [@jfullstackdev](https://github.com/jfullstackdev) ] All Rights Reserved 
 
 powered by GitHub Gist, *the Gist that you can Git*
 
@@ -121,4 +121,4 @@ and also powered by Git, *the Git that you can't Git without Git*
 
 ## Copyright Notice Link
 
-https://github.com/jdevfullstack/copyright-notice
+https://github.com/jfullstackdev/copyright-notice
