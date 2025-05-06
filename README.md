@@ -45,8 +45,8 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
-<a href="https://github.com/jfullstackdev/thoughts-on-gpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=thoughts-on-gpt&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/generative-ai-review">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=generative-ai-review&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Dev & Tech Tutorials / Lessons
@@ -58,14 +58,14 @@ worth it. It means a lot to me. Thanks.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=github-pages-tutorial&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jfullstackdev/hacking-the-github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=hacking-the-github-stats&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/github-stats-guide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=github-stats-guide&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Arduino & Electronics
 
-<a href="https://github.com/jfullstackdev/basic-electronics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=basic-electronics&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/electronics-robotics-intro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=electronics-robotics-intro&theme=tokyonight&description_lines_count=2" />
 </a>
 <a href="https://github.com/jdevfullstack-tutorials/blinking-led-arduino">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack-tutorials&repo=blinking-led-arduino&theme=tokyonight&description_lines_count=2" />
