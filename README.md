@@ -45,8 +45,8 @@ worth it. It means a lot to me. Thanks.
 
 ## New
 
-<a href="https://github.com/jfullstackdev/generative-ai-review">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=generative-ai-review&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/mern-fullstack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=mern-fullstack&theme=tokyonight&description_lines_count=2" />
 </a>
 
 ## Dev & Tech Tutorials / Lessons
