@@ -64,7 +64,7 @@ worth it. It means a lot to me. Thanks.
 
 ## Arduino & Electronics
 
-<a href="https://github.com/jdevfullstack/basic-electronics">
+<a href="https://github.com/jfullstackdev/basic-electronics">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=basic-electronics&theme=tokyonight&description_lines_count=2" />
 </a>
 <a href="https://github.com/jdevfullstack-tutorials/blinking-led-arduino">
@@ -78,11 +78,11 @@ worth it. It means a lot to me. Thanks.
 ## Software Dev
 ### Java
 
-<a href="https://github.com/jdevfullstack/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=java&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=java&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevfullstack/lightweight-web-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=lightweight-web-server&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/lightweight-web-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=lightweight-web-server&theme=tokyonight&description_lines_count=2" />
 </a>
 
 <a href="https://github.com/xkcph2017/FlappyBird">
@@ -91,15 +91,15 @@ worth it. It means a lot to me. Thanks.
 
 ### PureBasic
 
-<a href="https://github.com/jdevfullstack/PureBasic-2D-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/PureBasic-2D-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-2D-Game&theme=tokyonight&description_lines_count=2" />
 </a>
-<a href="https://github.com/jdevfullstack/PureBasic-FileExplorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/PureBasic-FileExplorer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-FileExplorer&theme=tokyonight&description_lines_count=2" />
 </a>
 
-<a href="https://github.com/jdevfullstack/PureBasic-Scrabble">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdevfullstack&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
+<a href="https://github.com/jfullstackdev/PureBasic-Scrabble">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfullstackdev&repo=PureBasic-Scrabble&theme=tokyonight&description_lines_count=2" />
 </a>
 
 # Copyright Notice
