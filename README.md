@@ -29,10 +29,6 @@ worth it. It means a lot to me. Thanks.
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
 </p>
 
-<p align="left">	  
- <a href="https://xdvrx1.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
-</p>	
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jfullstackdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
 
 # Featured Content
