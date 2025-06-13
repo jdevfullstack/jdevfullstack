@@ -13,7 +13,7 @@ worth it. It means a lot to me. Thanks.
 
 **visit all my public repos [here](https://github.com/jfullstackdev?tab=repositories&q=&type=source&language=&sort=name)**
 
-***
+<p align="center">──── ✦ ────</p>
 
 -- **my skillset** --
 
@@ -23,7 +23,7 @@ worth it. It means a lot to me. Thanks.
 **4. Technical Writing**    
 **5. GitHub Tech Support @ GitHub Community**   
 
-***
+<p align="center">──── ✦ ────</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
